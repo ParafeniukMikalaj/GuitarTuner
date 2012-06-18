@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>generator.png</file>
+        <file>icon.png</file>
+        <file>tuner.jpg</file>
+        <file>info.png</file>
+        <file>settings.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+This repo contains my project on course "Computer Architecture".
+Program name is GuitarTuner. It is used for acoustic guitar settings.
+Currently program is compiled for Linux but it can be easily compiled
+for other platforms because I used cross-platform languages, tools, 
+libraries. In this project you can see the usage of C++, Qt 4.8, 
+complex FFT, PortAudio.
